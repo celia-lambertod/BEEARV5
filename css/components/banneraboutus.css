@@ -1,0 +1,26 @@
+.banneraboutus {
+	background-image: url(../../images/banneraboutus.jpeg);
+	color: white;
+	padding: 70px 0px ;
+	background-size: cover;
+	background-position: center;
+	margin-top: 150px;
+}
+
+.banneraboutus img {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	text-align:center;
+	margin: auto;
+    display:flex;
+    text-shadow: 0 0 5px black;
+}
+
+.banneraboutus h1 {
+	font-size: 50px;
+	font-weight: bold;
+	color: #E1E8EB;
+	text-align: center;
+	text-shadow: 0 0 5px black;
+}

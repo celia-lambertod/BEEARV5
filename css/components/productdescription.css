@@ -1,0 +1,137 @@
+.productdescription{
+	 position: center;
+	   margin-top: 60px;
+  		font-size: 50px;
+    	font-weight: bold 600;
+}
+
+.continueshop {
+	text-decoration: underline;
+	margin-left: 30px;
+	margin-top: 50px;
+}
+
+.images {
+	float: left;
+	top: 100px;
+	margin-left: 50px;
+	margin-top: 10px;
+}
+
+.coronapetit img {
+	width: 100px;
+	height: 100px;
+	border-radius: 5px;
+	margin-left: 20px;
+	margin-top: 150px;
+	padding: 0px;
+	column-width: 100px;
+}
+
+.coronagrand img {
+	width: 350px;
+	height: 350px;
+	border-radius: 3px;
+	margin-left: 20px;
+}
+
+.subtitle {
+	margin-left: 700px;
+	top: 200px;
+	text-decoration: underline;
+	display: flex;
+	height: 160px;
+}
+
+.description {
+	float: left;width: 300px;
+	text-decoration: underline;
+	margin-top: 70px;
+	font-size: 22px;
+}
+
+.ingredients{
+	float: left;width: 200px;
+	text-decoration: underline;
+	margin-top: 70px;
+	color: dimgrey;
+	font-size: 22px;
+}
+
+.text {
+	float: right;width: 900px;
+	text-align: left;
+}
+
+.text h1{
+	font-size: 22px;
+	font-weight: bolder;
+}
+
+.coronaextra {
+	float: right;width: 900px;
+	display: flex;
+	height: 12px;
+	margin-left: 100px;
+	margin-right: 0px;
+}
+
+
+.coronaextra h1{
+	margin-top: 12px;
+	font-weight: bold;
+	margin-left: -4px;
+}
+
+.price {
+	float: left;width: 900px;
+	margin-right: 1000px;
+	margin-left: 0px;
+	height: 120px;
+}
+
+.btn-purple {
+	text-align: center;
+	background-color: #7952B3;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+	font-family: 'libre franklin', serif;
+	width: 140px;
+	margin-top: 30px;
+	margin-left: -4px;
+}
+
+.btn-purple p{
+	color: white;
+	font-weight: bold;
+	font-family: 'libre franklin', serif;
+}
+
+.textdescription{
+	margin-right: 550px;
+	margin-top: 100px;
+	text-align: justify;
+}
+
+.review {
+	font-weight:bold;
+	line-height: 3%;
+    margin-top: 40px;
+    text-align: left;
+}
+
+.review img{
+	 text-align: left;
+	 margin-right: 1000px;
+	 line-height: 5%;
+	 height: 20px;
+}
+
+.comments {
+	text-decoration: underline;
+	font-size: 14px;
+	line-height: 5%;
+	text-align: left;
+}

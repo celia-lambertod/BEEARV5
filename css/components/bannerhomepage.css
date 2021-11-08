@@ -1,0 +1,21 @@
+.bannerhomepage {
+	background-image: url(../../images/banner.jpeg);
+	color: white;
+	padding: 170px 0px;
+	background-size: cover;
+	background-position: center;
+	margin-top: 165px;
+}
+
+.bannerhomepage a {
+	background-color: #E1E8EB;
+	opacity: 80%;
+	color: #343A40;
+	font-size: 40px;
+	border-radius: 6px;
+	text-shadow: 0 0 5px #FFC107;
+	font-weight: bolder;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}

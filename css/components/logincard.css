@@ -1,0 +1,42 @@
+.logincard {
+	background-color: #FFC107;
+	display: block;
+	flex-wrap: wrap;
+	width: 450px;
+	height: 320px;
+}
+
+.logincard a {
+	font-family: 'nunito sans' , sans-serif;
+	font size: 18px;
+	margin: 10px auto;
+	color: black;
+	font-weight: 6000;
+	margin-top: 30px;
+}
+
+.logincard input {
+	width: 350px;
+	margin: 15px;
+	background-color: #E1E8EB;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: #343A40;
+	font-weight: bold;
+	font-family: 'libre franklin', serif;
+	border-color: #7952B3;
+	border-color top: #7952B3;
+}
+
+.cardcontainer {
+	width: 450px;
+}
+
+.logincard btn-purple:hover {
+	color: #E1E8EB;
+}
+
+.logincard h1 {
+	margin: 15px;
+	margin-top: 100px;
+}

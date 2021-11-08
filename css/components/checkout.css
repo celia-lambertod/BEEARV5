@@ -1,0 +1,58 @@
+
+
+.formdelivery {
+  position: absolute;
+  left: 0px;
+  top: 120px;
+  bottom: ;
+  width: 20%;
+  padding: 12px 20px;
+  margin: 150px;
+  box-sizing: border-box;
+  border: 2px #343A40;
+  border-radius: 4px;
+  background-color: #E5E5E5;
+  color: #343A40;
+  font-weight: bold;
+}
+.selectdelivery{
+  position: absolute;
+  left: 320px;
+  top: 120px;
+  width: 20%;
+	font-weight: bold;
+  background-color: #E5E5E5;
+  padding: 12px 20px;
+  margin: 150px;
+  box-sizing: border-box;
+  border: 2px #343A40;
+  border-radius: 4px;
+}
+.selectdelivery img{
+  width: 20%;
+  height: 20%;
+  border-radius: 4px;
+}
+.payment{
+  position: absolute;
+  left: 640px;
+  top: 120px;
+  width: 20%;
+  font-weight: bold;
+  background-color: #E5E5E5;
+  padding: 12px 20px;
+  margin: 150px;
+  box-sizing: border-box;
+  border: 2px #343A40;
+  border-radius: 4px;
+}
+.payment img{
+  width: 15%;
+  height: 15%;
+}
+.confirmorder {
+position: absolute;
+  left: 800px;
+  top: 480px;
+
+}

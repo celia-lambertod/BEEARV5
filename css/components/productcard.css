@@ -1,0 +1,19 @@
+.productcard {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 250px;
+  margin: auto;
+  text-align: center;
+  font-family: 'libre franklin', serif;
+}
+
+.price {
+  color: #343A40;
+  font-size: 17px;
+  margin-top: -5px;
+  font-weight: bold;
+}
+
+.productcard img {
+  width: 250px;
+  height: 250px;
+}

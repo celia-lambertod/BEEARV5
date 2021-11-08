@@ -1,0 +1,67 @@
+.shopbybreweriescards {
+	display: flex;
+	margin: 100px auto;
+	flex-basis: 350px;
+	width: 1202px;
+	justify-content: space-between;
+	flex-wrap: wrap;
+	background-color: white;
+  	box-sizing: border-box;
+  	border: 2px #343A40;
+  	border-radius: 4px;
+}
+
+.brewerycard {
+	width: 	551px;
+	height: 227px ;
+	background-size: cover;
+	background-position: center;
+	border-radius: 5px;
+	display: flex;
+	position: relative;
+	justify-content: center;
+	align-items: center;
+	margin: 30px auto;
+
+}
+
+.brewerycard img {
+	width: 450px;
+	height: 227px;
+	border-radius: 6px;
+	margin-top: 80px;
+	align-items: center;
+	position: relative;
+	box-shadow: 0 0 10px black;
+
+
+}
+
+.brewerycard a {
+  	background-color: #7952B3;
+	color: white;
+	font-size: 20px;
+	border-radius: 6px;
+	width: 150px;
+	padding: 20px;
+	text-align: center;
+	box-shadow: 0 0 2px black;
+
+}
+
+.text {
+	width: 450px;
+	height: 227px;
+	text-align: center;
+	margin: 30px auto;
+}
+
+
+#independent {
+	background-image: url(../../images/independent.jpg);
+}
+
+#global{
+	background-image: url(../../images/global.jpg);
+}
+
